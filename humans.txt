@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Christophe MILLER -- christophe.miller74@gmail.com
 
 # THANKS
 
